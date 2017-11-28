@@ -11,3 +11,5 @@ Based on the _HMS Titanic_ data set, [as seen on **Kaggle**](https://www.kaggle.
 Written in Python / Pandas and marked up in a Jupyter Notebook. The notebook can be viewed in its entirety in the file **Project_2_Data_Analysis.ipynb**
 
 Demonstrates an introductory-level understanding of data analysis with Pandas and Numpy, visualization, and working with Jupyter (Ipython) notebooks. (Along with some simple Python.)
+
+![sample plot](titanic-sex-pclass.png)
